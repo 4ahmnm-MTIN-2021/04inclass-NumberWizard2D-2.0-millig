@@ -19,6 +19,7 @@ WebGL, reference solution 960 x 600
 
 
 ### Visuals:
+<img src="./Visuals/NumberWizard.gif" width="300"> 
 
 
 ### Project State:
