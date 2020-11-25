@@ -15,7 +15,7 @@ public class GameScript : MonoBehaviour
     {
         max = 100;
         min = 1;
-        int guess = UnityEngine.Random.Range(1, 100);
+        guess = UnityEngine.Random.Range(1, 100);
 
     }
 
